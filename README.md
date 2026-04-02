@@ -1,30 +1,66 @@
-# Blue-Team-Handbook
-# Cybersecurity Knowledge Base
+# SOC & Cybersecurity Learning Repository
 
-A structured cybersecurity learning repository documenting concepts,
-tools, and hands-on labs while preparing for SOC Analyst roles.
+Welcome to my **SOC & Cybersecurity Learning** repository!  
 
-## Topics Covered
+This repository contains **raw Markdown notes** on various Security Operations Center (SOC) and cybersecurity topics. These notes are intended for personal learning, reference, and hands-on practice.  
 
-• Networking Fundamentals  
-• SIEM & Log Analysis  
-• Endpoint Monitoring  
-• Threat Detection Frameworks  
-• Security Tools  
+> ⚠️ Currently, these are raw Markdown files. Internal links and backlinks will be configured soon for easier navigation.
 
-## Tools Covered
+---
 
-Wireshark  
-Splunk  
-ELK Stack  
-Sysmon  
-Osquery  
-Snort  
-NetworkMiner  
+## **Repository Structure**
 
-## Platforms
+The repository is organized into the following main topics:
 
-TryHackMe  
-Security labs and CTF exercises.
+1. **Core SOC Solutions**
+   - ELK Stack (Elasticsearch, Logstash, Kibana)
+   - Introduction to SOAR
+   - Introduction to EDR
+   - Introduction to SIEM
+   - Splunk Basics
+
+2. **Cyber Defence Frameworks**
+   - Pyramid of Pain
+   - Cyber Kill Chain
+   - MITRE ATT&CK Framework
+
+3. **Digital Forensics**
+   - Basics of DFIR (Digital Forensics & Incident Response)
+   - KAPE Tool
+   - Linux Forensics
+   - Windows File System & Registry
+   - Volatility
+   - Autopsy
+   - Redline
+
+4. **Network Security Monitoring**
+   - IDS Fundamentals
+   - Network Discovery & Detection
+   - Network Security Essentials
+   - Snort Overview
+
+5. **Network Traffic Analysis**
+   - Network Traffic Basics
+   - Wireshark Tool
+   - Tshark Tool
+
+6. **Phishing Analysis**
+   - Phishing Analysis Fundamentals
+   - Phishing Analysis Tools
+   - Phishing Prevention Techniques
+
+7. **SOC Team Internals**
+   - Alert Reporting & Triage
+   - SOC Metrics & Objectives
+   - Workbooks & Lookups
+
+---
+
+## **How to Use This Repository**
+1. Browse the repository folders to explore the Markdown files.
+2. Open any `.md` file to read the notes.
+
+---
 
 
+⭐ Star this repository if you find the notes useful!
