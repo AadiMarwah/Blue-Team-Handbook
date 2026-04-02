@@ -21,8 +21,6 @@ The repository is organized into the following main topics:
 
 2. **Cyber Defence Frameworks**
    - Pyramid of Pain
-   - Cyber Kill Chain
-   - MITRE ATT&CK Framework
 
 3. **Digital Forensics**
    - Basics of DFIR (Digital Forensics & Incident Response)
@@ -42,7 +40,6 @@ The repository is organized into the following main topics:
 5. **Network Traffic Analysis**
    - Network Traffic Basics
    - Wireshark Tool
-   - Tshark Tool
 
 6. **Phishing Analysis**
    - Phishing Analysis Fundamentals
